@@ -13,6 +13,10 @@
 
 - I have completed my 1st c++ projects [1. CDS (cafe digital system)](https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD)
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/bilalalisaif6](https://linktr.ee/bilalalisaif6)
+
+- 📝 I regularly write articles on [https://worldvelocity.blogspot.com/](https://worldvelocity.blogspot.com/)
+
 - 💬 Ask me about **Any Programming Code or web development**
 
 - 📫 How to reach me **bilalalisaif.92@gmail.com**
