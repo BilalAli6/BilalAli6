@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CPP,JAVA_SCRIPT,SWIFT AND PYTHON**
 
-- My 1st c++ project [1. CDS (cafe digital system)](https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD)
+- 👨‍💻My 1st c++ project [1. CDS (cafe digital system)](https://drive.google.com/drive/u/0/folders/12Hon_q9_x7x2GAUFvIMfV1UmpMYPsyVD)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/bilalalisaif6](https://linktr.ee/bilalalisaif6)
 
