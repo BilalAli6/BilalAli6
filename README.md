@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Any Programming Code or web development**
 
-- 📫 How to reach me **bilalalisaif.92@gmail.com**
+- 📫 How to reach me **bilalalisaif6@gmail.com**
 
 - ⚡ Fun fact **I am an introvert**
 
