@@ -98,3 +98,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2z-Af_QsvoV5UTY4OurSpq0jAOaTNwjy9Q&s" alt="College Logo" height="200" width="200"/>
   </a>
 </p>
+
+
+## 👀 Profile Views:
+
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=bilalali6)
+</p>
