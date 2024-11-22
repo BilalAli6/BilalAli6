@@ -96,10 +96,10 @@
 
 ---
 
-## 🌐 My Website:
+## 🌐 My Portfolio Website:
 <p align="center">
-  <a href="http://collegeofnursingsargodha.info" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2z-Af_QsvoV5UTY4OurSpq0jAOaTNwjy9Q&s" alt="College Logo" height="200" width="200"/>
+  <a href="https://bilalalisaif6.wixsite.com/my-site-16">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" height="200" width="200"/>
   </a>
 </p>
 
