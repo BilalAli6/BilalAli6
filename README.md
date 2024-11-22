@@ -99,7 +99,7 @@
 ## 🌐 My Portfolio Website:
 <p align="center">
   <a href="https://bilalalisaif6.wixsite.com/my-site-16">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" height="200" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" height="100" width="200"/>
   </a>
 </p>
 
