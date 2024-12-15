@@ -1,5 +1,6 @@
- # 👋 Hi, I'm Muhammad Bilal Ali Saif
-### 🖥️ Cyber Security Student at FAST NUCES, Islamabad
+<h1 align="center">👋 Assalam O Alaikum, I'm Muhammad Bilal Ali Saif</h1>
+
+### 🖥️ **Cyber Security Student** at FAST NUCES, Islamabad
 
 <div style="position: fixed; bottom: 10px; right: 10px; z-index: 999;">
   <img src="https://komarev.com/ghpvc/?username=bilalali6" alt="Profile Views" />
@@ -11,7 +12,7 @@
 
 ### 🌱 I’m currently learning:
 - **C++**, **JavaScript**, **Swift**, **Python**
-  
+
 ### 🔭 I’m currently working on:
 - [A Govt Website of a Nursing College](http://collegeofnursingsargodha.info)
 
@@ -41,7 +42,7 @@
   <a href="https://twitter.com/bilalali_pti" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-bilal-ali-saif-a160a6284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/muhammad-bilal-ali-saif-a160a6284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/bilalali447" target="blank">
@@ -53,7 +54,6 @@
   <a href="https://medium.com/@bilalalisaif6" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-
 </p>
 
 ---
@@ -99,10 +99,10 @@
 ## 🌐 My Portfolio Website:
 <p align="center">
   <a href="https://bilalalisaif6.wixsite.com/my-site-16">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" height="100" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" height="100" width="200"/>
   </a>
 </p>
 
+---
 
-
-
+### 🚀 Let's make awesome things happen inshAllah! 🌟
