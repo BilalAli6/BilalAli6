@@ -1,6 +1,6 @@
 <h1 align="center">👋 Assalam O Alaikum, I'm Muhammad Bilal Ali Saif</h1>
 
-### 🖥️ **Cyber Security Student** at FAST NUCES, Islamabad
+<h3 align="center"> 🖥️ <b>Cyber Security Student</b> at FAST NUCES, Islamabad</h3>
 
 <div style="position: fixed; bottom: 10px; right: 10px; z-index: 999;">
   <img src="https://komarev.com/ghpvc/?username=bilalali6" alt="Profile Views" />
