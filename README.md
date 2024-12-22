@@ -1,6 +1,6 @@
-# 👋 Assalam O Alaikum, I'm Muhammad Bilal Ali Saif
+## 👋 Assalam O Alaikum, I'm Muhammad Bilal Ali Saif
 
-# 🖥️ Cyber Security Student at FAST NUCES, Islamabad
+### 🖥️ Cyber Security Student at FAST NUCES, Islamabad
 
 <div style="position: fixed; bottom: 10px; right: 10px; z-index: 999;">
   <img src="https://komarev.com/ghpvc/?username=bilalali6" alt="Profile Views" />
