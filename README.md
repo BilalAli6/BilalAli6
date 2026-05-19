@@ -5,14 +5,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&lines=Aspiring+Cyber+Security+Engineer;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+Swift;Defender+of+the+Digital+World;Building+cool+stuff+from+Islamabad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Aspiring+Cyber+Security+Engineer;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+Swift;Defender+of+the+Digital+World;Building+cool+stuff+from+Islamabad" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=BilalAli6&style=for-the-badge&color=00D4FF&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/BilalAli6?tab=followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BilalAli6&query=followers&style=for-the-badge&label=FOLLOWERS&color=00D4FF&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/BilalAli6?style=for-the-badge&label=FOLLOWERS&color=00D4FF&labelColor=0D1117" alt="Followers" />
 </a>
 &nbsp;
 <a href="https://github.com/BilalAli6?tab=repositories">
@@ -111,9 +111,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BilalAli6&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&hide_border=false" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAli6&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=BilalAli6&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -124,54 +122,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BilalAli6&theme=onestar&no-frame=true&column=6&margin-w=10" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BilalAli6/BilalAli6/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BilalAli6/BilalAli6/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BilalAli6/BilalAli6/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> ⚙️ **To activate the snake:** Go to your `BilalAli6` repo → **Actions** tab → **New Workflow** → paste the YAML below → click **Run Workflow**
-
-<details>
-<summary>📋 Click to copy the GitHub Action YAML for the snake</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: BilalAli6
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
