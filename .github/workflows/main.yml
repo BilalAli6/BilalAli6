@@ -5,14 +5,14 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,5 +26,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
