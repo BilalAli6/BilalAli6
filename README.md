@@ -18,6 +18,10 @@
 <a href="https://github.com/BilalAli6?tab=repositories">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BilalAli6&query=public_repos&style=for-the-badge&label=REPOS&color=00D4FF&labelColor=0D1117" alt="Repos" />
 </a>
+&nbsp;
+<a href="https://github.com/BilalAli6?tab=repositories">
+  <img src="https://img.shields.io/github/stars/BilalAli6?style=for-the-badge&logo=github&label=%E2%AD%90%20TOTAL%20STARS&color=FFD700&labelColor=0D1117" alt="Total Stars" />
+</a>
 
 </div>
 
@@ -48,15 +52,27 @@
 
 ┌──(bilal㉿fast-nuces)-[~]
 └─$ cat goals.txt
-  [done] Built a Secure Chat System in Python
-  [done] Created Flight Visualizer with DSA in C++
-  [ ] Master ethical hacking and penetration testing
-  [ ] Contribute to open-source security tools
-  [ ] Land a role in Cyber Security or Software Dev
+
+  🎓 ACADEMIC
+  [✅] BS Cybersecurity — FAST NUCES Islamabad (Aug 2023 → present, Sem 6)
+  [✅] International Exchange Semester — UTeM, Malaysia (2025)
+  [ ] Graduate with BS Cybersecurity — Expected Jun 2027
+
+  💼 INTERNSHIPS
+  [✅] SOC Analyst Intern — OGDCL (Jun–Jul 2025)
+  [✅] Penetration Tester — National CERT Pakistan (Jun–Aug 2025)
+  [✅] Red Team Intern — ITSOLERA PVT LTD (Jun–Sep 2025)
+  [✅] Data Research Analyst — Dakota Funds Group, PA USA (Oct 2025–Jan 2026)
+
+  🚀 CAREER
+  [⏳] Land a full-time role in Cybersecurity / Software Engineering
+  [⏳] Contribute to open-source security tools
+  [ ] Obtain OSCP / CEH certification
+  [ ] Build a recognized cybersecurity personal brand
 
 ┌──(bilal㉿fast-nuces)-[~]
 └─$ echo $STATUS
-  Currently building... watch this space
+  4 internships down. Degree in progress. Next: full-time role.
 ```
 
 ---
@@ -117,13 +133,34 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BilalAli6&theme=onestar&no-frame=true&column=6&margin-w=10" />
+
+![Commits](https://img.shields.io/github/commit-activity/y/BilalAli6/BilalAli6?style=for-the-badge&label=Commits+This+Year&color=00D4FF&labelColor=0D1117)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/BilalAli6?style=for-the-badge&label=Total+Stars&color=FFD700&labelColor=0D1117)
+&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BilalAli6&query=public_repos&style=for-the-badge&label=Public+Repos&color=6E40C9&labelColor=0D1117)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/BilalAli6?style=for-the-badge&label=Followers&color=E4405F&labelColor=0D1117)
+
+<br/>
+
 </div>
 
 ---
+## 🏆 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BilalAli6&show_icons=true&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=false&count_private=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAli6&layout=compact&theme=tokyonight&border_color=00D4FF&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+
+</div>
 
 ## 🌐 Connect With Me
 
